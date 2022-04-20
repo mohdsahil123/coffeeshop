@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Red+Hat+Mono:ital,wght@1,300&family=Rock+3D&family=Rubik&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+footer{
+    background-color: rgb(17, 4, 75);
+    height: 585px;
+    background-image: url(./images/124960698-木製の背景にコーヒーのコンセプト-白いコーヒーカップ、コーヒー、豆、朝、エスプレッソカフェ、朝食についての落書きイラストとトップビュー。朝のコーヒーベクトルイラスト。手描き。.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    width: 750px;
+    height: 500px;
+    float: left;
+    /* border: black solid 2px; */
+    
+}
+#aa1{
+    margin-left: 640px;
+    font-size: 50px;
+    color: rgb(116, 21, 21);
+}
+#a1{
+    margin-left: 100px;
+    font-size: 50px;
+    color: rgb(116, 21, 21);
+}
+#aa2{
+    margin-left: 210px;
+    font-size: 150px;
+    color: black;
+    position: absolute;
+    left: -83px;
+    margin-top: 195px;
+    font-family: 'Red Hat Mono', monospace;
+
+}
+#aa1:hover{
+    color: black;
+}
+#a1:hover{
+    color: black;
+}
+.col{
+    margin-left: -10px;
+    /* border: black solid 2px; */
+    margin-top: 20px;
+    
+}
+#l1{
+    font-size: 100px;
+    position: absolute;
+    left: 200px;
+    font-family: 'Source Code Pro', monospace;
+    color: #380a0a;
+
+}
+#l2{
+    font-size: 150px;
+    position: absolute;
+    left: 4px;
+    margin-top: 100px;   
+    margin-left: 100px;
+    color: #380a0a;
+}
+#l3{
+    position: absolute;
+    left: 250px;
+    margin-top: 120px;
+    margin-left: 0px;
+    font-size: 80px;
+    font-family: 'Rubik Microbe', cursive;
+    font-style: italic;
+    color: #380a0a;
+}
+#l4{
+    position: absolute;
+    left: 330px;
+    margin-top: 230px;
+    margin-left: 100px;
+    font-size: 100px;
+    font-family: 'Red Hat Mono', monospace;
+    font-style: oblique;
+    color: #380a0a;
+}
+.col-1{
+    /* border: black solid 2px; */
+    margin-top: 20px;
+    margin-left: 500px;   
+}
+#i1{
+    width: 730px;
+    height: 500px;
+    MARGIN-TOP: 0px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+#pp1{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 40px;
+}
+.cal{
+    width: 400px;
+    height: 615px;
+    /* border: black solid 2px; */
+    margin-top: 100px;
+}
+
+#i2{
+    width: 100%;
+    height: 350px;
+    border-radius: 50px;
+}
+
+#l5{
+    font-size: x-large;
+    font-family: 'Rubik Microbe', cursive;
+    margin-left: 100px;
+}
+
+#l6{
+    font-size: x-large;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-family: 'Rubik Microbe', cursive;
+}
+
+.cal-1{
+    width: 400px;
+    height: 615px;
+    /* border: black solid 2px; */
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.cal-2{
+    width: 400px;
+    height: 615px;
+    /* border: black solid 2px; */
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+#bt2{
+    margin-top: 20px;
+    background-color: black;
+    color: red;
+}
+#bt3{
+    margin-top: 40px;
+    background-color: black;
+    color: red;
+}
+button{
+    margin-left: 30%;
+    height: 30px;
+    background-color: black;
+    color: red;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    margin-top: 90px;
+    font-size: 31px;
+}
+#head{
+    text-align: center;
+    color: #380a0a;
+}
+.col-3{
+    height: 590px;
+    width: 750px;
+    margin-top: 100px;
+    
+}
+.col-4{
+    width: 730px;
+    height: 590px;
+    margin-left: 10px;
+    margin-top: 100px;
+}
+#pp2{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 22px;
+}
+#pp3{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 36px;
+
+}
+#pp4{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 28px;
+
+}
+#pp5{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 22px;
+
+}
+.col-5{
+    width: 600px;
+    margin-left: 895px;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: larger;
+}
+#bt7{
+    width: 150px;
+    margin-top: 10px;
+    height: 40px;
+    background-color: white;
+    color: crimson;
+}
+p{
+    font-size: 46px;
+}
+#lst{
+    width: 100%;
+    margin-top: 20px;
+    background-color: gray;
+    
+}
+#lst1{
+    font-size: 30px;
+    margin-left: 100px;
+    font-size: 40px;
+    color: black;
+    position: absolute;
+    left: -83px;
+    margin-top: 120px;
+    font-family: 'Red Hat Mono', monospace;
+}
+#lst2{
+    font-size: 30px;
+    margin-left: 700px;
+    font-size: 40px;
+    color: black;
+    position: absolute;
+    left: -83px;
+    margin-top: 120px;
+    font-family: 'Red Hat Mono', monospace;
+
+}
+#lst3{
+    font-size: 30px;
+    margin-left: 1300px;
+    font-size: 40px;
+    color: black;
+    position: absolute;
+    left: -83px;
+    margin-top: 120px;
+    font-family: 'Red Hat Mono', monospace;
+
+}
+#lst1:hover{
+    color: blueviolet;
+}
+#lst2:hover{
+    color: blueviolet;
+}
+#lst3:hover{
+    color: blueviolet;
+}
+i{
+    width: 130px;
+    margin-top: 0px;
+    
+}
+#s1{
+    margin-left: 130px;
+    margin-top: 305px;
+
+}
+body{
+    background-color: gray;
+}
+form{
+    text-align: center;
+}
+#lbtn{
+    margin-left: 10px;
+
+}
+#fm{
+    width: 300px;
+    height: 310px;
+    margin-top: 10px;
+    margin-left: 1165px;
+    background-color: grey;
+    border: black solid 4px;
+}
+#lbtn:hover{
+    background-color: white;
+    color: green;
+}
+#m2{
+    color: black;
+}
+#bt1:hover{
+    background-color: white;
+    color: gray;
+}
+#bt2:hover{
+    background-color: white;
+    color: gray;
+}
+#bt3:hover{
+    background-color: white;
+    color: gray;
+}
+#i1:hover{
+    width: 740px;
+    height: 550px;
+}
+#bt7:hover{
+    width: 160px;
+    height: 50px;
+}
+h1{
+    color: #380a0a;
+}
+
+
